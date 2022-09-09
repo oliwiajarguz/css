@@ -1,16 +1,11 @@
-.square{
-    width:150px;
-    height: 150px;
-    background-color: #fea500;
-    margin-left: auto;
-    margin-right: auto;
-}
-.tlo{
-    height: auto;
-    background-color: #808080;
-    width: auto;
-}
 h1{
-    color: white;
+    color: #0000ff;
     text-align: center;
+}
+.text{
+    text-align: center;
+}
+.one{
+ color: #ff0000;
+    
 }
